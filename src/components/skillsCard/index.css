@@ -1,0 +1,22 @@
+.skills-item-container {
+  display: flex;
+  flex-direction: row;
+  align-items: space-around;
+  padding-right: 15%;
+  margin-bottom: 25px;
+}
+.skills-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.skill-image {
+  width: 70px;
+  height: 70px;
+  padding-right: 10px;
+}
+.skill-name {
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
